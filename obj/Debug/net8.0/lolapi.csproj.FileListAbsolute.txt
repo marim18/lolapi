@@ -12,3 +12,4 @@ C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\refint\lolapi.
 C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\lolapi.pdb
 C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\lolapi.genruntimeconfig.cache
 C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\ref\lolapi.dll
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\lolapi.sourcelink.json

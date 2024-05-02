@@ -1,8 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿/*// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 string api_key = "RGAPI-4f16a338-efe0-4932-8160-5478bbedd0aa";
 string username = "softfeathers";
-string getpuuidurl = $"https://europe.api.riotgames.com/riot/account/v1/accounts/by-riot-id/{username}/euw?api_key={api_key}";
+string tagline = "euw";
+string getpuuidurl = $"https://europe.api.riotgames.com/riot/account/v1/accounts/by-riot-id/{username}/{tagline}?api_key={api_key}";
 string softfeathers = "mcLV3IFaSOKhm2EqK3pYeNcnl0ZRNOWQzWx5RXihHQJYAFWnIHI5ljGMJkY4osQMWg0z-MZV-rX1Dg"; //obtained from above
 string getrequesturlMatches = $"https://europe.api.riotgames.com/lol/match/v5/matches/by-puuid/{softfeathers}/ids?start=0&count=100&api_key={api_key}";
 // below obtained from above. 
@@ -107,7 +108,7 @@ string[] matchid = {"EUW1_6924573866",
     "EUW1_6906477065",
     "EUW1_6906433764"};
 
-    string[] MetaDataDTO= {
+string[] MetaDataDTO = {
         "matchId",
         "participants",};
 string[] InfoDTO = {
@@ -116,7 +117,7 @@ string[] InfoDTO = {
         "gameMode",
         "gameVersion",
         "participants"};
-    string [] participantDTO = {
+string[] participantDTO = {
         "assists",
         "kills",
         "deaths",
@@ -139,4 +140,13 @@ string[] InfoDTO = {
         "timeCCingOthers",
         "visionScore",
         "win"    };
-        
+string[] apirequesturlgame = new string[matchid.Length];
+for (int i = 0; i < matchid.Length; i++)
+{
+    apirequesturlgame[i] = $" https://europe.api.riotgames.com/lol/match/v5/matches/{matchid[i]}?api_key={api_key}";
+}
+
+class game
+{
+
+}*/
