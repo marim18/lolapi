@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lolapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a681d5870390f765c7152c8a4453b98e1ec72ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6529ca76d096858a87604af2f6438eba26c22bf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("lolapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lolapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
