@@ -1,0 +1,14 @@
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\bin\Debug\net8.0\lolapi.exe
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\bin\Debug\net8.0\lolapi.deps.json
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\bin\Debug\net8.0\lolapi.runtimeconfig.json
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\bin\Debug\net8.0\lolapi.dll
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\bin\Debug\net8.0\lolapi.pdb
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\lolapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\lolapi.AssemblyInfoInputs.cache
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\lolapi.AssemblyInfo.cs
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\lolapi.csproj.CoreCompileInputs.cache
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\lolapi.dll
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\refint\lolapi.dll
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\lolapi.pdb
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\lolapi.genruntimeconfig.cache
+C:\Users\wiwa2\OneDrive\Dokumenter\GitHub\lolapi\obj\Debug\net8.0\ref\lolapi.dll
